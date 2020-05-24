@@ -4,4 +4,5 @@
 
 - [MaterialApp](https://github.com/laocainiao365/flutterWidget/tree/master/lib/MaterialApp)
 - [Scaffold](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Scaffold)
-- [appBar](https://flutter.dev/docs/cookbook)
+- [appBar](https://github.com/laocainiao365/flutterWidget/tree/master/lib/appbar)
+- [Text](https://github.com/laocainiao365/flutterWidget/tree/master/lib/text)
