@@ -6,3 +6,4 @@
 - [Scaffold](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Scaffold)
 - [appBar](https://github.com/laocainiao365/flutterWidget/tree/master/lib/appbar)
 - [Text](https://github.com/laocainiao365/flutterWidget/tree/master/lib/text)
+- [RichText-Text.rich](https://github.com/laocainiao365/flutterWidget/tree/master/lib/RichText)
