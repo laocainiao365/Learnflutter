@@ -4,6 +4,13 @@ Container宽度设置：
 
 width: double.infinity //设置无限宽度，也就是撑满屏幕.
 
+Container自身尺寸的调节分两种情况：
+
+- Container在没有子节点（children）的时候，会试图去变得足够大。除非constraints是unbounded限制，在这种情况下，Container会试图去变得足够小。
+- 带子节点的Container，会根据子节点尺寸调节自身尺寸，但是Container构造器中如果包含了width、height以及constraints，则会按照构造器中的参数来进行尺寸的调节。
+
+
+
 Container常用属性及设置:
 ```dart
 Container(
