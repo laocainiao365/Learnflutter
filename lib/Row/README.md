@@ -4,7 +4,7 @@ Row组件是布局组件，只能在一屏幕内布局，不能超出屏幕滚�
 
 Row构造方法：
 
-```java
+```dart
 Row({
   Key key,
   MainAxisAlignment mainAxisAlignment = MainAxisAlignment.start, 
@@ -19,14 +19,14 @@ Row({
 
 使用案例：
 
-```java
+```dart
 Row(
       mainAxisAlignment: MainAxisAlignment.spaceEvenly,//主轴上的对齐方式
       mainAxisSize: MainAxisSize.min,//主轴上尽量占据小的空间，默认max占据尽量大的空间
       textDirection: TextDirection.rtl,//子元素的排列方式，从左往右或者从右往左排布
       crossAxisAlignment: CrossAxisAlignment.baseline,//交叉轴对齐方式
       textBaseline: TextBaseline.alphabetic,//设置文本的基线
-		  verticalDirection: VerticalDirection.down,//子组件排布方向，这个在row无效，在Column中有效
+      verticalDirection: VerticalDirection.down,//子组件排布方向，这个在row无效，在Column中有效
       children: <Widget>[ //子组件，可以多个
         Container(
           color: Colors.blue,
@@ -53,7 +53,6 @@ Row(
 子控件对齐方式，当子控件高度不一样时，如何被放置在中心轴，而MainAxisAlignment 决定了子控件间的间隔
 
 ```java
-
 enum MainAxisAlignment {
   start,  // 尽可能靠近主轴的起点
   end, // 尽可能靠近主轴末端的地方
@@ -80,7 +79,6 @@ enum MainAxisSize {
 子控件对齐方式，当子控件高度不一样时，如何被放置在中心轴，而MainAxisAlignment 决定了子控件间的间隔
 
 ```java
-
 enum CrossAxisAlignment {
   start,  // 子控件都父控件的项部
   end, // 子控件都在父控件的底部
@@ -95,7 +93,6 @@ enum CrossAxisAlignment {
  对齐文本的水平线
 
 ```java
-
 enum TextBaseline {
   alphabetic, // 用于对齐字母字符的字形底部的水平线
   ideographic,  // 用于对齐表意文字的水平线
