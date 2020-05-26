@@ -8,3 +8,6 @@
 - [Text](https://github.com/laocainiao365/flutterWidget/tree/master/lib/text)
 - [RichText-Text.rich](https://github.com/laocainiao365/flutterWidget/tree/master/lib/RichText)
 - [Container](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Container)
+- [Align](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Align)
+- [Padding-Center](https://github.com/laocainiao365/flutterWidget/tree/master/lib/padding_center)
+- [Image](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Image)
