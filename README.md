@@ -1,6 +1,13 @@
 # 学习flutter小部件
 
-**lib/文件夹下有具体文档和案例或者可以直接在doc目录下查看文档**
+### 观看视频
+[哔哩哔哩视频讲解](https://www.bilibili.com/video/BV1454y1D7tA/)
+
+---
+
+使用案例：-->lib目录下
+
+只看中文注解文档：-->doc目录下
 
 - [MaterialApp](https://github.com/laocainiao365/flutterWidget/tree/master/lib/MaterialApp)
 - [Scaffold](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Scaffold)
@@ -16,3 +23,4 @@
 - [Flex](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Flex)
 - [Stack](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Stack)
 - [Flexible-Expanded-Spacer](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Flexible_Expanded_Spacer)
+- [StatefulWidget生命周期](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Statefullwidget)
