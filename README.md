@@ -13,3 +13,6 @@
 - [Image](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Image)
 - [Row](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Row)
 - [Column](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Column)
+- [Flex](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Flex)
+- [Stack](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Stack)
+- [Flexible-Expanded-Spacer](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Flexible_Expanded_Spacer)
