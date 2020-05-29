@@ -26,3 +26,4 @@
 - [StatefulWidget生命周期](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Statefullwidget)
 - [Wrap](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Wrap)
 - [Button](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Button)
+- [圆角头像图片三种实现方式](https://github.com/laocainiao365/flutterWidget/tree/master/lib/CircleImage)
