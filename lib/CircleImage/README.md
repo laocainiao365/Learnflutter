@@ -32,7 +32,7 @@ Center(
 ),
 ```
 
-Container:--最麻烦，功能最强大，不关心图片形状，图片上可以设置文字，同时可以设置背景色。
+Container:--最麻烦，功能最强大，不关心图片形状，图片上可以设置文字，同时可以设置边框，图片混合模式等。
 ```dart
 Center(
   child: Container(
@@ -40,20 +40,19 @@ Center(
     height: 200,
     alignment: Alignment(0,0.7),
     decoration: BoxDecoration(
-        color: Colors.blue,
-        borderRadius: BorderRadius.circular(100),
-        border: Border.all(
+        borderRadius: BorderRadius.circular(100), //设置圆角
+        border: Border.all( //设置边框
           width: 10,
           color: Colors.orange[200]
         ),
-        image: DecorationImage(
+        image: DecorationImage( //设置图片
             image: NetworkImage(
               "http://img3.cache.netease.com/photo/0003/2016-12-12/C833NHCG00AJ0003.jpg",
               scale: 0.5,
             ),
             fit: BoxFit.cover,
             alignment: Alignment(0,-1),
-            colorFilter: ColorFilter.mode(Colors.blue, BlendMode.color)
+            colorFilter: ColorFilter.mode(Colors.blue, BlendMode.color) //这只图片混合模式
          ),
     ),
     child: Text("CAINIAO",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 24)),
