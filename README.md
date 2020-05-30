@@ -27,3 +27,8 @@
 - [Wrap](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Wrap)
 - [Button](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Button)
 - [圆角头像图片三种实现方式](https://github.com/laocainiao365/flutterWidget/tree/master/lib/CircleImage)
+- [IndexedStack](https://github.com/laocainiao365/flutterWidget/tree/master/lib/IndexedStack)
+- [FittedBox](https://github.com/laocainiao365/flutterWidget/tree/master/lib/FittedBox)
+- [FractionallySizeBox](https://github.com/laocainiao365/flutterWidget/tree/master/lib/FractionallySizeBox)
+- [SizeBox](https://github.com/laocainiao365/flutterWidget/tree/master/lib/SizeBox)
+
