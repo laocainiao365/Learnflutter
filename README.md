@@ -31,4 +31,4 @@
 - [FittedBox](https://github.com/laocainiao365/flutterWidget/tree/master/lib/FittedBox)
 - [FractionallySizeBox](https://github.com/laocainiao365/flutterWidget/tree/master/lib/FractionallySizeBox)
 - [SizeBox](https://github.com/laocainiao365/flutterWidget/tree/master/lib/SizeBox)
-
+- [Divider](https://github.com/laocainiao365/flutterWidget/tree/master/lib/Divider)
