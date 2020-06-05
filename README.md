@@ -1,4 +1,4 @@
-# 学习flutter小部件
+# 学习flutter
 
 ### 观看视频
 [哔哩哔哩视频讲解](https://www.bilibili.com/video/BV1454y1D7tA/)
