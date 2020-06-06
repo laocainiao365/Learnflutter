@@ -3,6 +3,10 @@
 ### 观看视频
 [哔哩哔哩视频讲解](https://www.bilibili.com/video/BV1454y1D7tA/)
 
+## - [原生指针事件与手势](https://github.com/laocainiao365/flutterWidget/tree/master/event.md)
+
+## - [路由管理](https://github.com/laocainiao365/flutterWidget/tree/master/Router.md)
+
 ---
 
 使用案例：-->lib目录下
@@ -37,5 +41,5 @@
 - [GridView](https://github.com/laocainiao365/flutterWidget/tree/master/lib/GridView)
 - [CustomScrollView](https://github.com/laocainiao365/flutterWidget/tree/master/lib/CustomScrollView)
 
-## 原生指针事件与手势-[router](https://github.com/laocainiao365/flutterWidget/tree/master/router.md)
+
 
