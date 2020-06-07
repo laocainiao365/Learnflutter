@@ -1,7 +1,7 @@
 # 学习flutter
 
 ### 观看视频
-[哔哩哔哩视频讲解](https://www.bilibili.com/video/BV1454y1D7tA/)
+[哔哩哔哩视频讲解](https://space.bilibili.com/415456221)
 
 ## - [原生指针事件与手势](https://github.com/laocainiao365/flutterWidget/tree/master/event.md)
 
