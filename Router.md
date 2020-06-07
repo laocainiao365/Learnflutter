@@ -1,8 +1,18 @@
 # flutter-路由
 
+Navigator和Route两个类
+
 flutter中的路由用Navigator来管理，页面要想被管理必须包装为Route。
 
-Router是一个抽象类，不能被直接实例化，但是可以用继承自他的MaterialPageRoute（不是直接继承）
+Route是一个抽象类，不能被直接实例化，但是可以用继承自他的MaterialPageRoute（不是直接继承）
+
+Navigator
+
+Navigator：管理所有的Route的Widget，通过一个Stack来进行管理的
+那么我们开发中需要手动去创建一个Navigator吗？
+并不需要，我们开发中使用的MaterialApp、CupertinoApp、WidgetsApp它们默认是有插入Navigator的
+所以，我们在需要的时候，只需要直接使用即可
+
 
 用MaterialPageRoute来包装：
 
@@ -20,7 +30,7 @@ Navigator.of(context).push(MaterialPageRoute(
 ));
 
 //这个和上面那个方式一样，内部也是用的上面那种方式
-Navigator.push(MaterialPageRoute(
+Navigator.push(context,MaterialPageRoute(
     builder: (ctx) {
       return AboutPage();
     }
