@@ -6,6 +6,7 @@
 ## - [原生指针事件与手势](https://github.com/laocainiao365/flutterWidget/tree/master/event.md)
 
 ## - [路由管理](https://github.com/laocainiao365/flutterWidget/tree/master/Router.md)
+- [路由管理代码](https://github.com/laocainiao365/flutterWidget/tree/master/router)
 
 ---
 
