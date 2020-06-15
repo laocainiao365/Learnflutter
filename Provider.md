@@ -95,3 +95,13 @@ final count = context.watch<Counter>().count;
 }
 ```
 
+#### 使用Consumer或者Selector
+```dart
+Consumer(
+  builder(context, val, child){
+    return Text("$val.count");
+  } 
+)
+```
+
+
